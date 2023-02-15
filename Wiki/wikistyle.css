@@ -1,0 +1,176 @@
+#inforuta
+{
+    position:absolute;  
+    width:300px;
+    
+    border:1px solid black;
+    
+    right: 200px;
+    top: 250px;
+    z-index: 1000;
+	padding-bottom: 20px;
+	
+	
+}
+
+tr
+{
+	
+	line-height: 20px
+}
+
+.info
+{
+	top: 0px;
+	padding-left: 10px;
+	//*border:1px solid black;*//
+	
+}
+
+.td1
+{
+	width: 100px;
+	
+}
+
+.td2
+{
+	width: 200px; 
+	
+}
+
+
+
+h3.inforubrik
+{
+	margin-left: 10px;
+}
+
+body
+{
+    background-image: url("bilder/image1.png");
+    background-color: lightblue;
+    color: black;
+    background-position: center top;
+    background-size: cover;
+    background-repeat: repeat;
+
+}
+
+.links 
+{
+    position: relative;
+    table-layout: fixed;
+    margin-left: 0%;
+    top: 0px;
+    left: 0px;
+    z-index: 1000;
+    
+}
+
+td
+{
+    width: 100px;
+    z-index: 1000;
+}
+
+h1
+{
+    font-size: 48px;
+    font-family: folly, verdana, sans-serif;
+    font-style: italic;
+    margin-left: 45%;
+    position: center;
+    color: white;
+}
+
+
+
+h2
+{
+    font-size: 35px;
+}
+
+#overlay
+{
+    opacity:0.90;
+    background-color:#fff;
+    position: absolute;
+    width:70%;
+    padding: 200px 400px 100px 100px;
+    margin-top: -400px;
+    top: 150px;
+    left: -120px;
+    border: 1px solid black;
+    
+}
+
+#bakgrund
+{
+    opacity:0.90;
+    background-color:#fff;
+    position: absolute;
+    width:70%;
+    padding: 150px 400px 200px 100px;
+    margin-top: -400px;
+    top: 150px;
+    left: -120px;
+    border: 1px solid black;
+}
+
+#innehall
+{
+    position: absolute;
+    width:50%;
+    
+    top:200px;
+    left:300px;
+    z-index:1000;
+    
+}
+
+#quote
+{
+    
+    
+    position: relative;
+    width: 450px;
+    height: 50%;
+    margin: 10px 10px;
+    border: 1px solid black;
+    
+    z-index: 1000;
+padding: 10px 20px 10px 20px;
+}
+
+#texter
+{
+    position: absolute;
+    width:55%;
+    height:100%;
+    top: 400px;
+    left: 300px;
+}
+
+#bild
+{
+    position:absolute;  
+    width:100px;
+    height: 100px;
+    border:20px black;
+    //*margin: 10px 10px;*//
+    left: 200px;
+    top: 300px;
+    z-index: 1000;
+}
+
+.profil
+{
+          position:relative;
+          width:100px;
+          height:100px;
+          z-index: 1000;
+		  opacity: 1;
+}
+
+
